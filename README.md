@@ -12,7 +12,6 @@ This website is designed to:
 
 ## Features
 
-- **Dynamic GitHub Project List**: Automatically fetches and displays my latest repositories using the GitHub API.
 - **Responsive Design**: Built to look great on both desktop and mobile devices.
 - **Attractiveness**: Simple and intuitive design that makes it easy to navigate and find my projects.
 - **User-friendly**: The website is designed to be user-friendly and easy to navigate.
